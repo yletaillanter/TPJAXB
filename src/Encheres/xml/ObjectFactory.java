@@ -6,9 +6,9 @@ package Encheres.xml;//
 //
 
 
-import Encheres.xml.impl.EnchereTypeImpl;
-import Encheres.xml.impl.PersonneTypeImpl;
-import Encheres.xml.impl.SiteImpl;
+import impl.EnchereTypeImpl;
+import impl.PersonneTypeImpl;
+import impl.SiteImpl;
 
 import javax.xml.bind.annotation.XmlRegistry;
 
